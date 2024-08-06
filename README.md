@@ -27,8 +27,8 @@ LangChain is a powerful framework for building language models, and PaLM 2 is a 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/langchain-palm2-project.git
-    cd langchain-palm2-project
+    git clone https://github.com/mahesh-shali/palm2.git
+    cd palm2
     ```
 
 2. **Create a virtual environment:**
@@ -64,7 +64,7 @@ LangChain is a powerful framework for building language models, and PaLM 2 is a 
 
 ## Configuration
 
-All configuration settings are managed through the `.env` file and the `config.py` script. Ensure that your API keys and other sensitive information are correctly set up in the `.env` file.
+All configuration settings are managed through the `.env` file and the `main.py` script. Ensure that your API keys and other sensitive information are correctly set up in the `.env` file.
 
 ## Contributing
 
