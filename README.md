@@ -64,11 +64,9 @@ LangChain is a powerful framework for building language models, and PaLM 2 is a 
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/7732aa3d-277b-4d5f-a877-53e0d63b2b4e)
-
-
 ![image](https://github.com/user-attachments/assets/90af98d0-082a-4e0d-abd6-3b377c4f209c)
 
+![image](https://github.com/user-attachments/assets/7732aa3d-277b-4d5f-a877-53e0d63b2b4e)
 
 ![image](https://github.com/user-attachments/assets/d23bf5b6-234a-4105-8192-8ddd2a6656ca)
 
